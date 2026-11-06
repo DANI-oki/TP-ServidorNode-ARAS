@@ -1,0 +1,6 @@
+Queres ver un truco de magia?, segui los siguientes pasos:
+1- Corré el codigo de server.js
+2- Abrí Bruno
+3- En donde dice GET escribí "http://localhost:(N° del puerto)/update", guardar y Send
+4- En donde dice POST escribí "http://localhost:(N° del puerto)/mensaje", guardar y Send
+5- Listo :D
